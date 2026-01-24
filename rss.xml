@@ -1,0 +1,863 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS - DevEnDevenir</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-slate-50 to-blue-50 py-8 px-4 md:px-8">
+    <div class="max-w-3xl mx-auto">
+        <header class="text-center mb-12">
+            <h1 class="text-5xl md:text-6xl font-bold text-gray-900 mb-4 drop-shadow-sm">
+                DevEnDevenir
+            </h1>
+            <p class="text-xl text-gray-600 font-medium">Le blog des devs reconvertis</p>
+        </header>
+        
+        <div class="space-y-6">
+            
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/bonne-annee-2026/" rel="bookmark">
+                                Bonne année !
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Retour sur 2 ans d'articles, et tant d'autres à venir !</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Sat Jan 24 2026 13:21:08 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 24 janvier 2026</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #1 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/maitrisez-les-bugs/" rel="bookmark">
+                                Apprenez à dompter les bugs
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Apprenez à dompter les bugs, optimisez votre temps et celui des autres !</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Jan 21 2026 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 21 janvier 2026</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #2 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/la-pascaline-calculateur-analogique/" rel="bookmark">
+                                La pascaline, vers le calcul analogique moderne
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3"></p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Dec 10 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 10 décembre 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #3 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/la-machine-d-anticythere/" rel="bookmark">
+                                La machine d'Anticythère
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Parmi les objets liant l'homme au calcul, on trouve une mystérieuse machine, rongée par la corrosion, qui ne nous a pas encore révélé tous ses secrets.</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Tue Nov 18 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 18 novembre 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #4 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/metadonnees/" rel="bookmark">
+                                C'est quoi les métadonnées ?
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Découvrez ce qui se cache derrière cette notion que nous rencontrons pourtant tous les jours sans le savoir.</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Oct 29 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 29 octobre 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #5 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/blog_en_devenir/" rel="bookmark">
+                                Blog en devenir
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3"></p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Oct 15 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 15 octobre 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #6 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/anatomie_d_une_url/" rel="bookmark">
+                                Anatomie d'une URL
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Jekyll, un générateur de site statique idéal pour créer son blog</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Oct 01 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 1 octobre 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #7 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/tech-events/" rel="bookmark">
+                                Talks et events,why not ?
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Les talks et events qui ont lieu dans notre environnement proches sont autant d'occasions d'apprendre et d'échanger avec d'autres confrères ou consoeurs, pourquoi s'en priver ?</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Sep 17 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 17 septembre 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #8 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/rentree-2025/" rel="bookmark">
+                                C'est la rentrée !
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">C'est la rentrée, l'heure de retrouver nos PC et notre code.</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Thu Sep 04 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 4 septembre 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #9 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/personnaliser-profil-github/" rel="bookmark">
+                                Personnalisez votre profil Github
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Donnez un coup de neuf à votre profil Github</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Jul 16 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 16 juillet 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #10 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/enquete-metier/" rel="bookmark">
+                                L'enquête métier
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3"></p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Jul 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 2 juillet 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #11 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/de_junior_a_medior/" rel="bookmark">
+                                Je ne suis plus junior !
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3"></p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Fri Jun 20 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 20 juin 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #12 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/side_project/" rel="bookmark">
+                                Side project or not ?
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3"></p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Jun 04 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 4 juin 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #13 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/c_est_quoi_etre_junior/" rel="bookmark">
+                                C'est quoi être junior ?
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3"></p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed May 21 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 21 mai 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #14 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/reconversion_eldorado_ou_parcours_du_combattant/" rel="bookmark">
+                                Reconversion : eldorado ou parcours du combattant ?
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3"></p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed May 07 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 7 mai 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #15 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/jekyll/" rel="bookmark">
+                                Créer un blog avec Jekyll
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Jekyll, un générateur de site statique idéal pour créer son blog</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Apr 23 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 23 avril 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #16 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/hash/" rel="bookmark">
+                                C'est quoi un hash
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Vous utilisez des hash au quotidien, mais vous ignorez ce que c'est ? Découvrons-le ensemble !</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Apr 02 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 2 avril 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #17 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/mermaidjs/" rel="bookmark">
+                                Vos schémas en Markdown ? C’est possible avec MermaidJS
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Test</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Mar 19 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 19 mars 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #18 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/regex/" rel="bookmark">
+                                Les regex, aussi effrayantes que puissantes
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3"></p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Mar 05 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 5 mars 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #19 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="https://blog.maxds.fr/restit-breizhcamp-2024/" rel="bookmark">
+                                BreizhCamp 2024
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Le BreizhCamp vu par un junior</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Sun Feb 16 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 16 février 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #20 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/encodage/" rel="bookmark">
+                                L'encodage
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Mais pourquoi ces symboles apparaissent parfois ? �, Ã© et autres étrangetés.</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Feb 12 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 12 février 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #21 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/who-run-the-tech/" rel="bookmark">
+                                Who Run The Tech
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3"></p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Jan 29 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 29 janvier 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #22 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/premier-anniversaire/" rel="bookmark">
+                                Bonne année !
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Bilan 2024/perspectives 2025 sur DevEnDevenir</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Jan 15 2025 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 15 janvier 2025</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #23 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/tailblocks/" rel="bookmark">
+                                Tailblocks, votre allié pour une page web simple et rapide
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Vous connaissez Tailwind CSS ? Eh bien Tailblocks vous propose des composants Tailwind responsive, prêts à l'emploi et gratuits !</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Thu Dec 12 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 12 décembre 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #24 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/cypress/" rel="bookmark">
+                                Ajouter des tests e2e à votre projet
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Les tests permettent de sécuriser le fonctionnement d'une application, notamment les tests de bout en bout. Créez les vôtres avec Cypress !</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Nov 27 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 27 novembre 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #25 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/vie_jeune_developpeur/" rel="bookmark">
+                                Les débuts d'un jeune développeur
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Les polices de remplacement jouent un rôle fondamental dans l'affichage de nos sites web, découvrez lequel et comment en mettre en place sur vos projets.</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Thu Nov 14 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 14 novembre 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #26 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/json-server/" rel="bookmark">
+                                Mocker une API en 5 minutes, c'est possible !
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Un projet démarre et vous n'avez pas de back-end sur lequel vous appuyer ? Découvrez vite json server !</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Oct 30 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 30 octobre 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #27 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/cdn/" rel="bookmark">
+                                C'est quoi un CDN ?
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Souvent évoqué, jamais précisément présenté, on entend régulièrement parler des CDN, mais de quoi s'agit-il ?</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Thu Oct 10 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 10 octobre 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #28 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/des-nouvelles-du-dev/" rel="bookmark">
+                                Des nouvelles du dev
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Et sinon, il se passe quoi en coulisse ?</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Sep 04 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 4 septembre 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #29 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/picocss/" rel="bookmark">
+                                PicoCSS, le framework CSS qui a du style
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Tailwind, Bootstrap, c'est bien, mais c'est parfois overkill. PicoCSS vous permet de créer un site web simple sans avoir à vous préoccuper du style, ou peu s'en faut !</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Tue Jun 25 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 25 juin 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #30 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/recherche-stage/" rel="bookmark">
+                                Chercher un stage de développeur
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">La recherche de stage est un enjeu majeur quand on suit une formation, évoquons ensemble comment la gérer efficacement.</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Jun 12 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 12 juin 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #31 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/fallback-font/" rel="bookmark">
+                                Connaissez-vous les "fallback fonts" ?
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Les polices de remplacement jouent un rôle fondamental dans l'affichage de nos sites web, découvrez lequel et comment en mettre en place sur vos projets.</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed May 29 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 29 mai 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #32 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/reconversion/" rel="bookmark">
+                                La reconversion, une véritable aventure
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Souvent présentée comme un chemin simple à suivre, la reconversion est un chemin escarpé semé d'embûches</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed May 15 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 15 mai 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #33 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/minification/" rel="bookmark">
+                                La minification des fichiers
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Découvrez en quoi consiste la minification des fichiers, son rôle et tous ses avantages</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Apr 03 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 3 avril 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #34 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/tailwindcss/" rel="bookmark">
+                                Tailwind CSS
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Plongez dans l'univers des frameworks utility-first et découvrez toute la puissance de Tailwind CSS !</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Mar 20 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 20 mars 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #35 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="https://blog.maxds.fr/article-fonctionnalites-slack/" rel="bookmark">
+                                Slack, seulement un réseau social ?
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Slack est une application permettant de communiquer et de collaborer, d'échanger des documents. Mais peut-on aller plus loin avec Slack ?</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Tue Mar 19 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 19 mars 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #36 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/powertoys/" rel="bookmark">
+                                PowerToys, un ami qui vous veut du bien
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Windows a des limites, dépassez-les grâce à PowerToys, une application qui pimpera votre PC en quelques clics.</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Mar 06 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 6 mars 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #37 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/astro/" rel="bookmark">
+                                Créer un blog avec Astro
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Astro, un compilateur de site web statique d'une simplicité enfantine</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Tue Feb 20 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 20 février 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #38 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/revealjs/" rel="bookmark">
+                                RevealJS, le futur des présentations
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">RevealJS, le futur des présentations</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Feb 07 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 7 février 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #39 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/notion/" rel="bookmark">
+                                Notion, un outil aussi simple que puissant
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Découvrez un outil aux multiples facettes, qui deviendra votre assistant personnel pour organiser vos données et vos connaissances.</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Jan 24 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 24 janvier 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #40 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/markdown/" rel="bookmark">
+                                Le Markdown, le futur de la documentation
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Faire de la documentation as code, c'est possible, avec la syntaxe Markdown. Ne quittez plus votre éditeur de code préféré, et concentrez-vous sur le fonds plus que la forme</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Tue Jan 09 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 9 janvier 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #41 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="/blog-preview/blog/pourquoi-ce-blog/" rel="bookmark">
+                                Pourquoi ce blog ?
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Quelques mots sur la raison d'être de ce blog.</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Tue Jan 02 2024 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 2 janvier 2024</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #42 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="https://blog.maxds.fr/tests-fonctionnels-karate/" rel="bookmark">
+                                Tests fonctionnels avec Karate
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Garantir le fonctionnement d'une application à chaque étape de son développement est une priorité, Karate peut vous aider.</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Wed Mar 08 2023 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 8 mars 2023</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #43 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+
+            <article class="group bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 border border-gray-100 overflow-hidden">
+                <div class="p-8">
+                    <header>
+                        <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors">
+                            <a href="https://blog.maxds.fr/parcours-d-un-nouvel-arrivant/" rel="bookmark">
+                                Le parcours d'un nouvel arrivant
+                            </a>
+                        </h2>
+                        <p class="text-gray-600 leading-relaxed mb-6 line-clamp-3">Jekyll, un générateur de site statique idéal pour créer son blog</p>
+                    </header>
+                    <footer class="flex flex-col justify-end sm:flex-row gap-4 items-start sm:items-center text-sm text-gray-500 pt-4 border-t border-gray-100">
+                        <time datetime="Sun Nov 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time)" class="font-semibold">Publié le 6 novembre 2022</time>
+                        <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                            #44 sur 44
+                        </span>
+                    </footer>
+                </div>
+            </article>
+        </div>
+        
+        <footer class="mt-16 text-center text-gray-500 text-sm pt-12 border-t border-gray-200">
+            <p>Flux généré par <strong>Astro</strong> • <a href="https://ludovicdean.github.io/blog-preview" class="hover:text-blue-600" rel="home">Site complet</a></p>
+        </footer>
+    </div>
+</body>
+</html>
